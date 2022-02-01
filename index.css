@@ -25,6 +25,9 @@ li {
   font-weight: 900;
   font-size: 20px;
 }
+.nav-list li a {
+  text-decoration: none;
+}
 
 .header-section {
   /* box-sizing: border-box; */
